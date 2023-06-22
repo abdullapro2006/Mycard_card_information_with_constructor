@@ -1,0 +1,15 @@
+C:\Users\Mahir\OneDrive\Рабочий стол\constructor,namesapce test\constructor,namesapce test\obj\Debug\net6.0\constructor,namesapce test.csproj.AssemblyReference.cache
+C:\Users\Mahir\OneDrive\Рабочий стол\constructor,namesapce test\constructor,namesapce test\obj\Debug\net6.0\constructor,namesapce test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahir\OneDrive\Рабочий стол\constructor,namesapce test\constructor,namesapce test\obj\Debug\net6.0\constructor,namesapce test.AssemblyInfoInputs.cache
+C:\Users\Mahir\OneDrive\Рабочий стол\constructor,namesapce test\constructor,namesapce test\obj\Debug\net6.0\constructor,namesapce test.AssemblyInfo.cs
+C:\Users\Mahir\OneDrive\Рабочий стол\constructor,namesapce test\constructor,namesapce test\obj\Debug\net6.0\constructor,namesapce test.csproj.CoreCompileInputs.cache
+C:\Users\Mahir\OneDrive\Рабочий стол\constructor,namesapce test\constructor,namesapce test\bin\Debug\net6.0\constructor,namesapce test.exe
+C:\Users\Mahir\OneDrive\Рабочий стол\constructor,namesapce test\constructor,namesapce test\bin\Debug\net6.0\constructor,namesapce test.deps.json
+C:\Users\Mahir\OneDrive\Рабочий стол\constructor,namesapce test\constructor,namesapce test\bin\Debug\net6.0\constructor,namesapce test.runtimeconfig.json
+C:\Users\Mahir\OneDrive\Рабочий стол\constructor,namesapce test\constructor,namesapce test\bin\Debug\net6.0\constructor,namesapce test.dll
+C:\Users\Mahir\OneDrive\Рабочий стол\constructor,namesapce test\constructor,namesapce test\bin\Debug\net6.0\constructor,namesapce test.pdb
+C:\Users\Mahir\OneDrive\Рабочий стол\constructor,namesapce test\constructor,namesapce test\obj\Debug\net6.0\constructor,namesapce test.dll
+C:\Users\Mahir\OneDrive\Рабочий стол\constructor,namesapce test\constructor,namesapce test\obj\Debug\net6.0\refint\constructor,namesapce test.dll
+C:\Users\Mahir\OneDrive\Рабочий стол\constructor,namesapce test\constructor,namesapce test\obj\Debug\net6.0\constructor,namesapce test.pdb
+C:\Users\Mahir\OneDrive\Рабочий стол\constructor,namesapce test\constructor,namesapce test\obj\Debug\net6.0\constructor,namesapce test.genruntimeconfig.cache
+C:\Users\Mahir\OneDrive\Рабочий стол\constructor,namesapce test\constructor,namesapce test\obj\Debug\net6.0\ref\constructor,namesapce test.dll

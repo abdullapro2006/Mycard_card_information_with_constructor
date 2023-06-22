@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "constructor,namesapce test/1.0.0": {
+        "runtime": {
+          "constructor,namesapce test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "constructor,namesapce test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
